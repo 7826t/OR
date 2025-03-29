@@ -1,0 +1,44 @@
+[
+  {
+    "id": "G1",
+    "name": "Group 1",
+    "size": 2,
+    "properties": [
+      {
+        "name": "name_major1",
+        "category": "major"
+      },
+      {
+        "name": "name_major5",
+        "category": "major"
+      },
+      {
+        "name": "name_major6",
+        "category": "major"
+      },
+      {
+        "name": "name_minor1",
+        "category": "minor"
+      }
+    ]
+  },
+  {
+    "id": "G2",
+    "name": "Group 2",
+    "size": 3,
+    "properties": [
+      {
+        "name": "name_major2",
+        "category": "major"
+      },
+      {
+        "name": "name_major3",
+        "category": "major"
+      },
+      {
+        "name": "name_minor2",
+        "category": "minor"
+      }
+    ]
+  }
+]
