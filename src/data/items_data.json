@@ -1,0 +1,232 @@
+[
+  {
+    "id": "I1",
+    "name": "Item 1",
+    "properties": [
+      {
+        "name": "name_major1",
+        "category": "major",
+        "level": 1
+      },
+      {
+        "name": "name_major2",
+        "category": "major",
+        "level": 1
+      },
+      {
+        "name": "name_major3",
+        "category": "major",
+        "level": 0
+      },
+      {
+        "name": "name_major4",
+        "category": "major",
+        "level": 0
+      },
+      {
+        "name": "name_major5",
+        "category": "major",
+        "level": 2
+      },
+      {
+        "name": "name_major6",
+        "category": "major",
+        "level": 3
+      },
+      {
+        "name": "name_minor1",
+        "category": "minor",
+        "level": 1
+      },
+      {
+        "name": "name_minor2",
+        "category": "minor",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "id": "I2",
+    "name": "Item 2",
+    "properties": [
+      {
+        "name": "name_major1",
+        "category": "major",
+        "level": 1
+      },
+      {
+        "name": "name_major2",
+        "category": "major",
+        "level": 0
+      },
+      {
+        "name": "name_major3",
+        "category": "major",
+        "level": 1
+      },
+      {
+        "name": "name_major4",
+        "category": "major",
+        "level": 0
+      },
+      {
+        "name": "name_major5",
+        "category": "major",
+        "level": 3
+      },
+      {
+        "name": "name_major6",
+        "category": "major",
+        "level": 1
+      },
+      {
+        "name": "name_minor1",
+        "category": "minor",
+        "level": 3
+      },
+      {
+        "name": "name_minor2",
+        "category": "minor",
+        "level": 3
+      }
+    ]
+  },
+  {
+    "id": "I3",
+    "name": "Item 3",
+    "properties": [
+      {
+        "name": "name_major1",
+        "category": "major",
+        "level": 2
+      },
+      {
+        "name": "name_major2",
+        "category": "major",
+        "level": 1
+      },
+      {
+        "name": "name_major3",
+        "category": "major",
+        "level": 1
+      },
+      {
+        "name": "name_major4",
+        "category": "major",
+        "level": 0
+      },
+      {
+        "name": "name_major5",
+        "category": "major",
+        "level": 2
+      },
+      {
+        "name": "name_major6",
+        "category": "major",
+        "level": 1
+      },
+      {
+        "name": "name_minor1",
+        "category": "minor",
+        "level": 1
+      },
+      {
+        "name": "name_minor2",
+        "category": "minor",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "id": "I4",
+    "name": "Item 4",
+    "properties": [
+      {
+        "name": "name_major1",
+        "category": "major",
+        "level": 1
+      },
+      {
+        "name": "name_major2",
+        "category": "major",
+        "level": 2
+      },
+      {
+        "name": "name_major3",
+        "category": "major",
+        "level": 2
+      },
+      {
+        "name": "name_major4",
+        "category": "major",
+        "level": 0
+      },
+      {
+        "name": "name_major5",
+        "category": "major",
+        "level": 0
+      },
+      {
+        "name": "name_major6",
+        "category": "major",
+        "level": 1
+      },
+      {
+        "name": "name_minor1",
+        "category": "minor",
+        "level": 1
+      },
+      {
+        "name": "name_minor2",
+        "category": "minor",
+        "level": 1
+      }
+    ]
+  },
+  {
+    "id": "I5",
+    "name": "Item 5",
+    "properties": [
+      {
+        "name": "name_major1",
+        "category": "major",
+        "level": 0
+      },
+      {
+        "name": "name_major2",
+        "category": "major",
+        "level": 3
+      },
+      {
+        "name": "name_major3",
+        "category": "major",
+        "level": 1
+      },
+      {
+        "name": "name_major4",
+        "category": "major",
+        "level": 0
+      },
+      {
+        "name": "name_major5",
+        "category": "major",
+        "level": 3
+      },
+      {
+        "name": "name_major6",
+        "category": "major",
+        "level": 1
+      },
+      {
+        "name": "name_minor1",
+        "category": "minor",
+        "level": 1
+      },
+      {
+        "name": "name_minor2",
+        "category": "minor",
+        "level": 2
+      }
+    ]
+  }
+]
